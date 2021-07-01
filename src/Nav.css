@@ -1,0 +1,35 @@
+.nav{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    padding: 1rem; 
+    z-index: 1;
+    display: felx;
+    justify-content: space-between;
+    transition-timing-function: ease-in;
+    transition: all .5s;
+}
+.navBlack{
+    height: 4rem;
+    background-color: #111;
+}
+.navLogo{
+    width:8rem ;
+    position: fixed;
+    left: 2rem;
+    object-fit: contain;
+}
+.icon{
+    width: 2.5rem;
+    height: 2.5rem;
+    position: fixed;
+    right: 2rem;
+    object-fit: contain;
+    background-color: #E50914;
+    border-radius: 50%;
+}
+@media (max-width:420px) {
+    .icon{
+        display: none;
+    }
+}
