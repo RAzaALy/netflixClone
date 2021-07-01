@@ -1,3 +1,6 @@
+# Netflix Clone
+<a href="https://netflixclone-f9ac1.web.app" >Live Demo</a>
+<img src="https://imguploader.net/if/E2Zjve65SJlF.png" alt="img" />
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
